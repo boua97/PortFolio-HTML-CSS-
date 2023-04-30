@@ -294,9 +294,10 @@ nav ul li{
 .Portfolio-card{
     width: 300px;
     background-color: var(--bgcolor-2);
-    /* border-radius: 20px; */
+    border-radius: 20px;
     /* padding: 1.3rem 2rem;   */
     text-align: center; 
+    
 }
 
 .Portfolio-card i{
@@ -304,9 +305,12 @@ nav ul li{
    text-align: center;
    color: var(--primarycolor);
    margin: 2rem; 
+ 
+  
 }
 .Portfolio .container-images{
     width: 100%;
+    
 
 }
 .AASS{
